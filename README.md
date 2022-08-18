@@ -1,0 +1,2 @@
+# FortuneTeller
+Fortune Teller exercise
